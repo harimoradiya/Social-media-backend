@@ -3,7 +3,7 @@
 
 ## Use technology
 - Database(PostgreSQL)
-- JWT Tocken
+- JWT Token
 - oauth2
 - Docker
 - sqlalchemy
